@@ -1,6 +1,5 @@
 # 📉 Why Are Customers Leaving? (Telco Churn Analysis)
 
-![Dashboard Preview](Dashboard_Preview.png)
 ### 🚀 The Challenge
 We've all been there signing up for a service and then cancelling it a few months later. But for a Telecom company, that cancellation isn't just annoying; it's expensive.
 
@@ -56,6 +55,4 @@ I designed the final dashboard to be an "Executive War Room."
 ### 📬 Connect with Me
 If you have questions about the SQL logic or just want to chat about data, feel free to reach out!
 
-* pratikkafle65@gmail.com
-* [LinkedIn Profile Link](https://www.linkedin.com/in/pratik-kafle)
-* [Portfolio Link](https://github.com/Pratik-Kafle)
+* sethudevan137@gmail.com
